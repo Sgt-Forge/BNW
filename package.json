@@ -13,5 +13,13 @@
     "express": "^4.17.1"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "Basic NodeJS Website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sgt-Forge/BNW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sgt-Forge/BNW/issues"
+  },
+  "homepage": "https://github.com/Sgt-Forge/BNW#readme"
 }
